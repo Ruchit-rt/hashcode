@@ -1,0 +1,7 @@
+1. Can we do it?
+2. Is there a point in doing it?
+	Don't do it: current day + duration > best before + score
+3. Productivity: score / (duration * total # of people * time to finish)
+4. For each project,
+	Pass 1: Assign people who can fill the most roles
+	Pass 2: Fill people who can be mentored
